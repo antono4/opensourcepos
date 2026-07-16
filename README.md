@@ -162,3 +162,7 @@ FAQ
 * If the avatar pictures are not shown in Items or at Item save time you get an error, please make sure your public and subdirs are assigned to the correct owner and the access permission is set to 755
 
 * If you have problems with the encryption support or you get an error please make sure `php5-mcrypt` is installed
+
+---
+
+> **Created by Antono**
